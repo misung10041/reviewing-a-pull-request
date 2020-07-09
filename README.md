@@ -12,3 +12,6 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+왼쪽 검토 및 줄 설명
+파일을 만들고 커밋
+풀 요청을 열었습니다
